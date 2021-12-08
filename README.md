@@ -1,6 +1,6 @@
 #  Quantification of topological errors due to image transformations
 
-**Context** : Third year project \
+**Context** : 3rd year industrial project with GREYC laboratory \
 **Year** : 2021-2022
 
 **Students** :
@@ -13,16 +13,15 @@
 * Yukiko Kenmochi *yukiko.kenmochi@unicaen.fr*
 * Sebastien Fourey *sebastien.fourey@unicaen.fr*
 
-Status
------- 
-IN PROGRESS
+# IN WORK
+## Technologies 
+DGtal : https://dgtal.org/ , digital geomtry tools and algorithms library, source code
 
+## Parts of the project 
+for 2D and 3D objects develop tools for : 
+- transformations and interpolations 
+- to get topological caracteristics 
+- to get persistant homology caracteristics 
 
-Installation & Usage
------
-TODO
-
-Sources
-----
-Documentation and courses we used are available in the directory named "Documents/documentations".
-
+## More 
+for more context see the KickOff presentation (in French) in Documents > CR_Reu > presentations > KICKOFF.pdf
