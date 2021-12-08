@@ -15,13 +15,14 @@
 
 # IN WORK
 ## Technologies 
-DGtal : https://dgtal.org/ , digital geomtry tools and algorithms library, source code
+DGtal : https://dgtal.org/ , digital geometry tools and algorithms library, source code
 
 ## Parts of the project 
-for 2D and 3D objects develop tools for : 
+for 2D and 3D objects, create tools for : 
 - transformations and interpolations 
 - to get topological caracteristics 
 - to get persistant homology caracteristics 
 
 ## More 
 for more context see the KickOff presentation (in French) in Documents > CR_Reu > presentations > KICKOFF.pdf
+and the CRs in Documents > CR_Reu (in French)
